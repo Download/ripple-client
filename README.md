@@ -1,5 +1,7 @@
 # Ripple Client
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Download/ripple-client.svg)](https://greenkeeper.io/)
+
 This is a general purpose Ripple client in JavaScript.
 
 ## Directory structure
